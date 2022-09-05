@@ -4,3 +4,4 @@ Thanks.
 ---
 September 2022.
 At the moment I am engaged in solving problems on the practical application of their knowledge, in about a week, I will begin to engage in freelance tasks, to raise the commercial and professional experience.
+The tasks are from this Russian-language website on computer science and mathematics
